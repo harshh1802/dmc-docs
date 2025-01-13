@@ -116,7 +116,7 @@ https://unpkg.com/@mantine/dates@7.11.0/styles.css
 ### Documentation
 
 This entire documentation has been created almost entirely using Dash Mantine Components. You can check out the source
-code in the [dcm-docs GitHub](https://github.com/snehilvj/dmc-docs) for some inspiration.
+code in the [dmc-docs GitHub](https://github.com/snehilvj/dmc-docs) for some inspiration.
 
 While going through this documentation, you will come across interactive demos meant to show an overview as well as the overall effect of different combinations of a component's props.
 
